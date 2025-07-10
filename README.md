@@ -2,7 +2,6 @@
 
 This repository showcases a complete **end-to-end (E2E)** automation testing solution built using **Playwright**, covering both **UI workflows** and **API validations**.
 
----
 
 ## Key Highlights
 
@@ -18,7 +17,6 @@ This repository showcases a complete **end-to-end (E2E)** automation testing sol
 - **Robust Assertions**:  
   Based on URL, text content, API status codes, and live response data.
 
----
 
 ## Test Demonstration
 
