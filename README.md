@@ -1,4 +1,4 @@
-# Accurasol Assessment
+# AccuraSol Assessment
 
 This repository showcases a complete **end-to-end (E2E)** automation testing solution built using **Playwright**, covering both **UI workflows** and **API validations**.
 
