@@ -4,7 +4,6 @@ This repository showcases a complete **end-to-end (E2E)** automation testing sol
 
 
 ## Key Highlights
-
 - **UI Testing Scenarios**:  
   Includes login, product selection, cart validation, and checkout.
 
