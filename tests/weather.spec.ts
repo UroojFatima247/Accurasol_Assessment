@@ -14,5 +14,5 @@ test('Scenario 3: Get current weather of Islamabad and validate temperature', as
   const temperature = data.main.temp;
   expect(typeof temperature).toBe('number');
 
-  console.log(`🌤️ Current temperature in Islamabad: ${temperature}°C`);
+  console.log(`Current temperature in Islamabad: ${temperature}°C`);
 });
